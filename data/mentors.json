@@ -5,9 +5,24 @@
     "channels": [],
     "mentors": [
       {
-        "name": "",
-        "github": "52north",
-        "githubUrl": "https://github.com/52north"
+        "name": "Benedikt Gräler",
+        "github": "BenGraeler",
+        "githubUrl": "https://github.com/BenGraeler"
+      },
+      {
+        "name": "Katharina Demmich",
+        "github": "kdemmich",
+        "githubUrl": "https://github.com/kdemmich"
+      },
+      {
+        "name": "Martin Pontius",
+        "github": "MartinPontius",
+        "githubUrl": "https://github.com/MartinPontius"
+      },
+      {
+        "name": "Benjamin Pross",
+        "github": "bpross-52n",
+        "githubUrl": "https://github.com/bpross-52n"
       }
     ], 
     "mailingLists": [], 
